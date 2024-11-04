@@ -13,11 +13,11 @@ This project is a hands-on, structured 21-day challenge designed to help partici
 ## Project Links
 
 - **Day 1: Data Visualization Libraries**
-  - Seaborn: [Watch Here](https://www.youtube.com/watch?v=TLdXM0A7SR8&ab_channel=edureka%21)
-  - Matplotlib: [Watch Here](https://www.youtube.com/watch?v=yZTBMMdPOww&ab_channel=edureka%21)
-  - NumPy: [Watch Here](https://www.youtube.com/watch?v=xECXZ3tyONo&ab_channel=PythonProgrammer)
-  - Pandas: [Watch Here](https://www.youtube.com/watch?v=iGFdh6_FePU&ab_channel=PythonProgrammer)
-  - MCQs conducted via Google Forms
+  -- Seaborn: [Watch Here](https://www.youtube.com/watch?v=TLdXM0A7SR8&ab_channel=edureka%21)
+  -- Matplotlib: [Watch Here](https://www.youtube.com/watch?v=yZTBMMdPOww&ab_channel=edureka%21)
+  -- NumPy: [Watch Here](https://www.youtube.com/watch?v=xECXZ3tyONo&ab_channel=PythonProgrammer)
+  -- Pandas: [Watch Here](https://www.youtube.com/watch?v=iGFdh6_FePU&ab_channel=PythonProgrammer)
+  -- MCQs conducted via Google Forms
 
 - **Day 2: Linear Regression**
   - Tutorial: [Watch Here](https://youtu.be/O2Cw82YR5Bo?feature=shared)
