@@ -30,7 +30,7 @@ This project is a hands-on, structured 21-day challenge designed to help partici
     - Training Data and Code Submission
     - [DAY 3](https://github.com/Mahesh-ch06/AIML_Code-A-Thon/blob/main/DAY_3.ipynb)
  
-  - **Day 4: Decision Tree Classification**
+- **Day 4: Decision Tree Classification**
     - **Topics Covered**: Basics of Decision Tree Classification.
     - **Activities**: 
     - Watched a tutorial on Decision Trees ([Video Link](https://youtu.be/k3SYtpv5y6Y?si=Qk-I8jeDyKy3OuAc)).
