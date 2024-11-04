@@ -25,14 +25,14 @@ This project is a hands-on, structured 21-day challenge designed to help partici
   - [DAY 2](https://github.com/Mahesh-ch06/AIML_Code-A-Thon/blob/main/DAY2.ipynb)
 
 - **Day 3: Logistic Regression**
-  - Theory of Logistic Regression: [Watch Here](https://youtu.be/r8OjlgWpAI0?si=apajTdMpSmv29iee)
-  - Code Explanation: [Watch Here](https://youtu.be/My4JgIeFdWk?si=OCejeUQ2xJG8AusT)
-  - Training Data and Code Submission
-  - [DAY 3](https://github.com/Mahesh-ch06/AIML_Code-A-Thon/blob/main/DAY_3.ipynb)
+    - Theory of Logistic Regression: [Watch Here](https://youtu.be/r8OjlgWpAI0?si=apajTdMpSmv29iee)
+    - Code Explanation: [Watch Here](https://youtu.be/My4JgIeFdWk?si=OCejeUQ2xJG8AusT)
+    - Training Data and Code Submission
+    - [DAY 3](https://github.com/Mahesh-ch06/AIML_Code-A-Thon/blob/main/DAY_3.ipynb)
  
   - **Day 4: Decision Tree Classification**
-  - **Topics Covered**: Basics of Decision Tree Classification.
-  - **Activities**: 
+    - **Topics Covered**: Basics of Decision Tree Classification.
+    - **Activities**: 
     - Watched a tutorial on Decision Trees ([Video Link](https://youtu.be/k3SYtpv5y6Y?si=Qk-I8jeDyKy3OuAc)).
     - Studied theory and code explanation videos ([Theory](https://youtu.be/RmajweUFKvM?si=xjjlPUMR6crLigFi)).
     - Implemented Decision Tree Classification with a fixed test size (70% training, 30% testing) and a random state (42) to ensure consistent accuracy results.
