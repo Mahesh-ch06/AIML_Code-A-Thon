@@ -74,8 +74,8 @@ This project is a hands-on, structured 21-day challenge designed to help partici
     - Trained data and submitted the completed code.
 
 - **Day 5: Random Forest Classification**
- - **Topics Covered**: Random Forest Classification.
- - **Activities**: 
+  - **Topics Covered**: Random Forest Classification.
+  - **Activities**: 
     - Learned about Random Forest Classification as an ensemble method.
     - Implemented and tested the algorithm based on tutorial guidance.
 ## Acknowledgments
