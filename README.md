@@ -38,6 +38,13 @@ This project is a hands-on, structured 21-day challenge designed to help partici
     - Implemented Decision Tree Classification with a fixed test size (70% training, 30% testing) and a random state (42) to ensure consistent accuracy results.
     - Training Data and Code Submission
     - [DAY 4](https://github.com/Mahesh-ch06/AIML_Code-A-Thon/blob/main/DAY_4.ipynb)
+  
+- **Day 5: Random Forest Classification**
+  - **Topics Covered**: Introduction to Random Forest Classification.
+  - **Activities**: 
+  - Watched a tutorial on Random Forest Classification ([Video Link](https://youtu.be/NaJ7F29OJkE?si=67v4HUtFKSUdVlVG)).
+  - Learned about ensemble methods and implemented Random Forest Classification in code.
+  - - [DAY 5](https://github.com/Mahesh-ch06/AIML_Code-A-Thon/blob/main/DAY_5.ipynb)
 ## Progress Overview
 
 - **Day 1: Data Visualization Libraries**
@@ -65,6 +72,12 @@ This project is a hands-on, structured 21-day challenge designed to help partici
     - Viewed a tutorial on Decision Tree classification.
     - Reviewed theory and code explanation.
     - Trained data and submitted the completed code.
+
+- **Day 5: Random Forest Classification**
+ - **Topics Covered**: Random Forest Classification.
+ - **Activities**: 
+  - Learned about Random Forest Classification as an ensemble method.
+  - Implemented and tested the algorithm based on tutorial guidance.
 ## Acknowledgments
 
 I would like to express my sincere gratitude to the organizers and instructors of the 21-Day Machine Learning Code-A-Thon for providing a structured and insightful learning journey into machine learning. Special thanks to Edureka! and Python Programmer for their comprehensive tutorial videos, which offered invaluable guidance on essential data analysis libraries. The additional resources on Linear and Logistic Regression deepened my understanding of these foundational algorithms. Finally, I appreciate the support from my peers and mentors, whose collaboration and feedback have been instrumental in enhancing my learning experience.
